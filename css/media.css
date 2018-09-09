@@ -1,0 +1,606 @@
+/* Extra large devices (large desktops, 1200px and up) */
+@media (max-width: 1200px) {
+    .person-desc p, .portfolio-info p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+    .clients-info p {
+        font-size: 14px;
+    }
+
+    .blog-cover {
+        height: 200px;
+    }
+
+    .date > .day {
+        font-size: 30px;
+    }
+
+    .date > .month {
+        font-size: 15px;
+    }
+
+    .person-desc span, .portfolio-info span {
+        font-size: 18px;
+    }
+
+    .person-desc img {
+        width: 70%;
+    }
+
+    .insta-items img {
+        width: 66px;
+    }
+
+    .blog-info p {
+        font-size: 12px;
+    }
+
+    .blog-info h3 {
+        font-size: 12px;
+    }
+
+    .blog-count > .text {
+        font-size: 13px;
+    }
+
+    .info-block > p {
+        font-size: 14px;
+    }
+
+    .blog-items span {
+        display: block;
+    }
+
+    .blog-items a {
+        font-size: 9px;
+    }
+
+    .nums span {
+        font-size: 50px;
+    }
+
+    .ipad > img {
+        width: 70%;
+    }
+
+    .iphone > img {
+        max-width: 100%;
+        width: 38%;
+        right: 60px;
+    }
+
+    .card-body {
+        font-size: 14px;
+    }
+    
+    .rounded-circle {
+        width: 80%;
+    }
+
+
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (max-width: 992px) {
+    .intro h1 {
+        margin-bottom: 20%;
+    }
+    
+    .intro h1:after {
+        bottom: 8vw;
+    }
+    
+    .creative {
+        line-height: 8vw;
+    }
+
+    .nums span {
+        font-size: 35px;
+    }
+
+    .nums p {
+        font-size: 12px;
+    }
+
+    .ipad > img {
+        max-width: 100%;
+        width: 350px;
+    }
+    
+    .iphone > img {
+        max-width: 100%;
+        width: 200px;
+        right: -90px;
+
+    }
+
+    nav ul > li {
+        margin-left: 35px;
+    }
+
+    .person-desc p, .portfolio-info p {
+        font-size: 14px;
+    }
+
+    .person-desc span, .portfolio-info span {
+        font-size: 18px;
+        margin: 25px 0 0 0;
+    }
+
+    .our-team-margin {
+        margin: 40px 0 80px 0;
+    }
+
+    .our-team-margin > .col-md-7 {
+        padding-bottom: 30px;
+    }
+
+    .our-team-margin > .col-md-7:last-child {
+        padding-bottom: 0;
+    }
+
+    .partners .col-md-4 {
+        padding-bottom: 30px;
+    }
+
+    .blog-cover {
+        height: 160px;
+    }
+
+    .blog-info h3 {
+        line-height: 26px;
+    }
+
+    .blog-info p {
+        font-size: 14px;
+    }
+
+    .date > .day {
+        font-weight: 500;
+        font-size: 28px;
+    }
+
+    .date > .month {
+        font-size: 12px;
+    }
+
+    .blog-count {
+        text-align: center;
+    }
+
+    .followers > p {
+        text-align: center;
+    }
+    
+    .follow-us {
+        text-align: center;
+    }
+
+    #subscribe form {
+        width: 100%;
+    }
+
+    .info-blog {
+        padding-top: 40px;
+    }
+
+    .blog-items span {
+        display: block;
+    }
+
+    .blog-items {
+        display: inline-flex;
+    }
+
+    .blog-items a {
+        font-size: 11px;
+    }
+
+    .info-insta {
+        padding-top: 40px;
+    }
+
+    .about-images {
+        margin: 15px 0 15px 0;
+    }
+
+    .item-cover h3 {
+        font-size: 12px;
+    }
+    
+    .item-cover span {
+        font-size: 12px;
+    }
+
+    .blog-cover > .date {
+        padding: 5px 12px;
+    }
+
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (max-width: 768px) {
+    .intro h1 {
+        margin-bottom: 20%;
+    }
+    
+    .intro h1:after {
+        bottom: 12vw;
+    }
+    
+    .creative {
+        font-size: 8vw;
+        line-height: 12vw;
+    }
+
+    .welcome {
+        font-size: 12vw;
+        line-height: 12vw;
+    }
+
+    .about-images a > div {
+        width: 500px;
+        height: 300px;
+    }
+
+    .about-images {
+        margin: 40px 0 50px 0;
+    }
+
+    .nums span {
+        font-size: 40px;
+    }
+
+    .nums p {
+        font-size: 12px;
+    }
+
+    .desc {
+        padding: 40px 0 60px 0;
+    }
+
+    .ipad > img {
+        max-width: 100%;
+        width: 250px;
+    }
+    
+    .iphone > img {
+        max-width: 100%;
+        width: 150px;
+        right: -60px;
+    }
+
+    .intro a {
+        font-size: 14px;
+        padding: 5px 15px;
+    }
+
+    .intro-list a {
+        font-size: 14px;
+    }
+
+    .intro-list span.num {
+        font-size: 18px;
+    }
+
+    .p-right {
+        padding: 50px 0 0 0;
+    }
+
+    .p-left {
+        padding: 50px 0 50px 0;
+    }
+
+    .person-desc img {
+        width: 20%;
+    }
+
+    .person-desc .col-md-4 {
+        padding-bottom: 20px;
+    }
+
+    .person-desc .col-md-8 {
+        text-align: center;
+    }
+
+    .item-cover h3 {
+        font-size: 10px;
+    }
+
+    .item-cover span {
+        font-size: 11px;
+    }
+
+    .rounded-circle {
+        max-width: 150px;
+    }
+
+    .masonry-container {
+        margin: 50px 0;
+    }
+
+    .portfolio-info .portfolio-desc {
+        padding: 20px 0;
+
+        text-align: center;
+        display: block;
+    }
+
+    .portfolio-info .col-md-8 {
+        text-align: center;
+    }
+
+    .clients-info {
+        text-align: center;
+        flex-flow: wrap;
+        margin-bottom: 30px;
+    }
+
+    .clients-image {
+        margin: 0 auto;
+    }
+
+    .clients-image img {
+        margin-right: 0;
+        padding: 20px 0;
+    }
+
+    .clients-info span {
+        display: inline-block;
+    }
+
+    .clients-info span:after {
+        width: 100px;
+    }
+
+    .blog-cover {
+        height: 220px;
+    }
+
+    .insta-items img {
+        width: 62px;
+    }
+
+
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (max-width: 576px) {
+    #wrapper {
+        margin: 20px 0 0 0;
+    }
+    
+    .intro h1 {
+        margin-bottom: 20%;
+    }
+    
+    .intro h1:after {
+        bottom: 10vw;
+    }
+    
+    .creative {
+        line-height: 8vw;
+    }
+
+    .about-images a > div {
+        width: 400px;
+        height: 250px;
+    }
+
+    .about-images {
+        margin: 40px 0 50px 0;
+    }
+
+    .intro a {
+        padding: 5px 20px;
+        font-size: 10px;
+    }
+
+    .intro-list a {
+        font-size: 12px;
+    }
+
+    .nums span {
+        font-size: 50px;
+    }
+    
+    .intro-list span.num {
+        font-size: 14px;
+    }
+
+    .nums p {
+        font-size: 12px;
+    }
+
+    .desc {
+        padding: 40px 0 60px 0;
+    }
+
+    .ipad > img {
+        max-width: 100%;
+        width: 250px;
+    }
+    
+    .iphone > img {
+        max-width: 100%;
+        width: 150px;
+        right: -55px;
+    }
+
+    .intro-list {
+        bottom: 20px;
+    }
+
+    .intro-list ul {
+        flex-flow: wrap;
+    }
+
+    .intro-list ul > li:hover:before {
+        width: 40vw;
+    }
+
+    .dec-line h3 {
+        font-size: 16px;
+        margin-bottom: 15px;
+    }
+
+    .dec-line:after {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .about p {
+        font-size: 12px;
+    }
+
+    .about-images a > div {
+        height: 150px;
+    }
+
+    .nums span {
+        font-size: 24px;
+    }
+
+    .about p {
+        font-size: 11px;
+    }
+
+    .dec-line h2 {
+        font-size: 20px;
+    }
+
+    .desc {
+        padding: 20px 0 40px 0;
+    }
+
+    .about-services > h3 {
+        font-size: 10px;
+    }
+    
+    .about-services > p {
+        font-size: 12px;
+    }
+
+    .about-services {
+        padding: 40px 0 20px 60px;
+    }
+
+    .ipad > img {
+        width: 180px;
+    }
+
+    .iphone > img {
+        width: 115px;
+        right: -30px;
+    }
+
+    .wwd-left {
+        height: 180px;
+    }
+
+    .btn-link {
+        font-size: 11px;
+    }
+
+    .card-body {
+        font-size: 12px;
+        line-height: 20px;
+    }
+
+    .person-desc {
+        padding: 40px 0;
+    }
+
+    .person-desc img {
+        width: 30%;
+    }
+
+    .person-desc p, .portfolio-info p {
+        font-size: 12px;
+    }
+
+    .team-1, .team-2, .team-3  {
+        height: 250px;
+        background-size: cover;
+    }
+
+    .team-social a {
+        padding: 5px 10px;
+        font-size: 16px;
+    }
+
+    .our-team h3 {
+        font-size: 12px;
+    }
+
+    .our-team span {
+        font-size: 12px;
+    }
+
+    .partners img {
+        width: 65px;
+    }
+
+    .item {
+        width: calc(100%/2);
+    }
+
+    .rounded-circle {
+        max-width: 110px;
+    }
+
+    .clients-info p {
+        font-size: 12px;
+    }
+
+    .blog-info p {
+        font-size: 12px;
+    }
+
+    .info-block > p {
+        font-size: 12px;
+    }
+    
+    #subscribe button {
+        padding: 0 20px;
+    }
+
+    .insta-items img {
+        width: 90px;
+    }
+
+    .intro h1 {
+        margin-bottom: 25%;
+    }
+
+    .intro h1:after {
+        bottom: 16vw;
+    }
+
+    .burger-menu li a {
+        font-size: 18px;
+    }
+
+    .logo {
+        margin: 10px 0 0 0;
+    }
+
+    #wrapper {
+        margin: 4px 0 0 0;
+    }
+
+    .burger-menu {
+        top: 67px;
+    }
+
+    header {
+        padding: 0 20px 10px 0;
+    }
+    
+}
+
+@media (max-width: 320px) {
+    
+}
